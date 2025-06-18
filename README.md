@@ -113,3 +113,6 @@ This tool, written heavily with the use of AI, comes with **no warranties** and 
 
 * [MDN Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
 * [AudioContext on MDN](https://developer.mozilla.org/en-US/docs/Web/API/AudioContext)
+
+## SCREENSHOTS
+![image](https://github.com/user-attachments/assets/b1850976-c3a3-4c9f-bc6f-781564339bed)
